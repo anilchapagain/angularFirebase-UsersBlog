@@ -1,11 +1,17 @@
 .user-title {
   margin-left: 1em;
 }
+
 mat-card {
   margin-top: 1em;
   padding: 1em 0;
+  margin: 2.5px;
 }
 mat-card-content,
 mat-card-actions {
   margin: 1em;
+}
+.img-responsive{
+  width: 200px;
+  height:200px;
 }

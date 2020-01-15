@@ -9,3 +9,14 @@ mat-form-field {
 img {
   width: 100%;
 }
+.boxing
+{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding:2.5px;
+}
+main{
+  background-color: antiquewhite;
+  margin: 2.5px;
+  padding: 2px;
+}
